@@ -1,0 +1,6 @@
+git status：查看本地和git仓库中的文件差异
+git clone:拷贝git仓库
+git add:将本地修改的文件添加到git仓库中（将文件放到暂存区）
+git commit -m:对于添加的文件作出评论
+git push：将文件提交到仓库，此后文件归属版本管理系统管理
+git log：查看提交日志
