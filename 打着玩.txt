@@ -1,0 +1,58 @@
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 56 SpA / 180 SpD / 20 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Toxic  
+- Taunt  
+- Protect  
+
+Tapu Lele @ Fightinium Z  
+Ability: Psychic Surge  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Focus Blast  
+- Calm Mind  
+- Psychic  
+- Moonblast  
+
+Zapdos @ Iapapa Berry  
+Ability: Static  
+EVs: 80 HP / 176 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Volt Switch  
+- Roost  
+- Heat Wave  
+
+Latias-Mega @ Latiasite  
+Ability: Levitate  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Recover  
+- Defog  
+- Shadow Ball  
+- Ice Beam  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 200 Atk / 56 SpD  
+Adamant Nature  
+- Swords Dance  
+- Roost  
+- Earthquake  
+- Stealth Rock  
+
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Smart Strike  
+- Leaf Blade  
+- Sacred Sword  
+- Knock Off  
+
