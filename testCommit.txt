@@ -1,3 +1,0 @@
-I found that I can't see my email address when I use git log.
-And I reset my email after that.
-Now let me see the difference.
