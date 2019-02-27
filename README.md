@@ -1,4 +1,3 @@
 # Sophomore
 # git教程
-in branchA
-in branchB
+#wtybill is a freaking god!
