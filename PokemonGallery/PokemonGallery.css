@@ -1,0 +1,24 @@
+body{
+	font-family: Impact;
+	color:#EE0000;
+	background-color:#98F5FF;
+	margin:1em 10%;
+}
+h1{
+	color:#EE7600;
+	background-color: transparent;
+}
+a{
+	color: #c60;
+	background-color: transparent;
+	font-weight: bold;
+	text-decoration: none;
+}
+ul{
+	padding: 10;
+}
+li{
+	float: left;
+	padding:1em;
+	list-style: none;
+}

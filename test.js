@@ -6,3 +6,6 @@ function showPic(whichpic){
 	var description = document.getElementById('description')
 	description.firstChild.nodeValue = text
 }
+function popUp(winURL){
+	window.open(winURL,"popUp",width=320,height=480)
+}
